@@ -1,4 +1,4 @@
-import { education } from "../data/portfolioData.js";
+import { education } from "../data/portfolioData";
 
 export default function Education() {
     return (

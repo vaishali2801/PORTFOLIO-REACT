@@ -1,4 +1,4 @@
-import { portfolio } from "../data/portfolioData.js";
+import { portfolio } from "../data/portfolioData";
 
 export default function About() {
     const interests = [

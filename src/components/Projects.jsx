@@ -1,4 +1,4 @@
-import { projects } from "../data/portfolioData.js";
+import { projects } from "../data/portfolioData";
 
 export default function Projects() {
     return (
