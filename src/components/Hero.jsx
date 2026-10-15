@@ -1,4 +1,4 @@
-import { portfolio } from "../data/portfolioData";
+import { portfolio } from "../data/portfolioData.js";
 import img from "../assets/myphoto.png";
 
 export default function Hero() {

@@ -1,4 +1,4 @@
-import { portfolio } from "../data/portfolioData";
+import { portfolio } from "../data/portfolioData.js";
 
 export default function Contact() {
     return (
